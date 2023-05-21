@@ -43,7 +43,7 @@ public class SearchProduct
 	public void ClickSearchButton() {
 		
 		searchbtn.click();;
-		
+		System.out.println(" search product");
 	}
 	
 	
