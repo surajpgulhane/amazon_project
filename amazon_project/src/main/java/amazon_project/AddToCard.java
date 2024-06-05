@@ -40,6 +40,7 @@ public class AddToCard {
 	
 	
 	public void AddTocardProduct() {
+		System.out.println("Hello world");
 		addProduct.click();
 	}
 	
